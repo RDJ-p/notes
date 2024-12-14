@@ -1,0 +1,4 @@
+node_modules
+.DS Star
+# Keep environment variables out of version control
+.env
